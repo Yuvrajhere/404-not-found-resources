@@ -17,4 +17,5 @@
   - [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) (free)
   - [HTML and CSS crash course by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) (free)
   - [Eloquent JavaScript Book](https://eloquentjavascript.net/) (free)
-  - [Asynchronous JavaScript (2020 version) by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
+  - [Asynchronous JavaScript (2020 version) by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu) (free)
+  - [Front End Web Development Ultimate Course 2021](https://www.udemy.com/course/learn-front-end-development/) (paid)
