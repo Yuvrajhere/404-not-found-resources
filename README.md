@@ -19,3 +19,16 @@
   - [Eloquent JavaScript Book](https://eloquentjavascript.net/) (free)
   - [Asynchronous JavaScript (2020 version) by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu) (free)
   - [Front End Web Development Ultimate Course 2021](https://www.udemy.com/course/learn-front-end-development/) (paid)
+  - [Javascript course by Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) (free)
+- C++
+  - [Learn CPP](https://www.learncpp.com/) (free)
+- Python
+  - [Real Python](https://realpython.com/) (free)
+- Java
+  - [Object Oriented Programming (OOPs) for JAVA Interviews](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/) (free)
+- Hackathons
+  - [Major League Hacking](https://mlh.io/seasons/2021/events)
+  - [DevPost](https://devpost.com/)
+  - [DevFolio](https://devfolio.co/)
+  - [Hack Club](https://hackathons.hackclub.com/)
+  - [Hacker Earth](https://www.hackerearth.com/challenges/hackathon/)
