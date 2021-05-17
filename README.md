@@ -31,6 +31,7 @@
   - [Hacker Rank](https://www.hackerrank.com/)
   - [Hacker Earth](https://www.hackerearth.com/practice/)
   - [Codeforces](https://codeforces.com/)
+  - [Code Wars](https://www.codewars.com/)
   - [CodeChef](https://www.codechef.com/)
   - [LeetCode](https://leetcode.com/)
   - [Interview Bit](https://www.interviewbit.com/)
