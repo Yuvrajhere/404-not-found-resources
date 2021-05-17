@@ -7,6 +7,7 @@
   - [Codecademy](https://www.codecademy.com/) (free + paid)
   - [CS50](https://cs50.harvard.edu/college/2021/spring/weeks/0/) (free)
   - [Rithm School](https://www.rithmschool.com/courses) (free)
+  - [Geeks For Geeks](https://www.geeksforgeeks.org/) (free + paid)
 - Web Development learning resources:
   - [The Odin Project](https://www.theodinproject.com/) (free)
   - [Mozilla documented courses](https://developer.mozilla.org/en-US/docs/Learn) (free)
