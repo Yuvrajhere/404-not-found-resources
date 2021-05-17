@@ -27,6 +27,13 @@
   - [Real Python](https://realpython.com/) (free)
 - Java
   - [Object Oriented Programming (OOPs) for JAVA Interviews](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/) (free)
+- Problem Solving
+  - [Hacker Rank](https://www.hackerrank.com/)
+  - [Hacker Earth](https://www.hackerearth.com/practice/)
+  - [Codeforces](https://codeforces.com/)
+  - [CodeChef](https://www.codechef.com/)
+  - [LeetCode](https://leetcode.com/)
+  - [Interview Bit](https://www.interviewbit.com/)
 - Hackathons
   - [Major League Hacking](https://mlh.io/seasons/2021/events)
   - [DevPost](https://devpost.com/)
