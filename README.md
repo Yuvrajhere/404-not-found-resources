@@ -31,6 +31,9 @@
   - [Real Python](https://realpython.com/) (free)
 - Java:
   - [Object Oriented Programming (OOPs) for JAVA Interviews](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/) (free)
+- Problem Solving (DS & Algo) learning resources:
+  - [DS & Algo in C++ by Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) (free)
+  - [DSA one course by Anuj Bhaiya](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) (free)
 - Problem Solving (DS & Algo) practice:
   - [Hacker Rank](https://www.hackerrank.com/)
   - [Hacker Earth](https://www.hackerearth.com/practice/)
