@@ -24,6 +24,7 @@
   - [ReactJS Tutorial for Beginners by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) (free)
   - [React Redux Tutorial by Codevolution](youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) (free)
   - [Full Modern React Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) (free)
+  - [CSS course by google](https://web.dev/learn/css/) (free)
 - C++:
   - [Learn CPP](https://www.learncpp.com/) (free)
 - Python:
