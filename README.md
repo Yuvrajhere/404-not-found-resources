@@ -22,7 +22,7 @@
   - [Front End Web Development Ultimate Course 2021](https://www.udemy.com/course/learn-front-end-development/) (paid)
   - [Javascript course by Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) (free)
   - [ReactJS Tutorial for Beginners by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) (free)
-  - [React Redux Tutorial by Codevolution](youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) (free)
+  - [React Redux Tutorial by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) (free)
   - [Full Modern React Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) (free)
   - [CSS course by google](https://web.dev/learn/css/) (free)
 - C++:
