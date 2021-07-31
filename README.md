@@ -48,3 +48,9 @@
   - [DevFolio](https://devfolio.co/)
   - [Hack Club](https://hackathons.hackclub.com/)
   - [Hacker Earth](https://www.hackerearth.com/challenges/hackathon/)
+- Where to apply for jobs:
+  - [LinkedIn jobs](https://www.linkedin.com/jobs)
+  - [Hirist](https://devpost.com/)
+  - [AngelList](https://angel.co/jobs)
+  - apply to careers page of specific companies, eg. [Jio](https://careers.jio.com/) 
+  - adding more soon... do suggest me if you know good ones.
