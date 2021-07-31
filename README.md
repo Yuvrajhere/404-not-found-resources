@@ -52,5 +52,5 @@
   - [LinkedIn jobs](https://www.linkedin.com/jobs)
   - [Hirist](https://devpost.com/)
   - [AngelList](https://angel.co/jobs)
-  - apply to careers page of specific companies, eg. [Jio](https://careers.jio.com/) 
-  - adding more soon... do suggest me if you know good ones.
+  - Apply to careers page of specific companies, eg. [Jio careers](https://careers.jio.com/) 
+  - Adding more soon... Do suggest me if you know good ones.
